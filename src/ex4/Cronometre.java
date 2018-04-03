@@ -1,4 +1,6 @@
 package ex4;
+import java.util.Date;
+import java.util.Scanner;
 
 
 /**
@@ -18,12 +20,68 @@ package ex4;
 public class Cronometre {
 
     private long inici;
+    private long tempstotal;
+    private long parcial = 0;
     private long fi;
 
 
-    Cronometre(){
+    public static void main(String[] args) {
+        Cronometre c = new Cronometre();
+        c.menu();
 
     }
 
+
+    public void menu(){
+
+
+        while (true){
+            System.out.println("::Cronometre::");
+            System.out.println("1.Star 2.Pausa 3.Stop 4.Posa a zero:");
+
+            Scanner sc = new Scanner (System.in);
+
+            int opcio = sc.nextInt();
+
+            if(opcio == 1){
+                posaEnMarxa();
+            }else if(opcio == 2){
+                pausa();
+            }else if(opcio == 3){
+                stop();
+            }else if (opcio == 4){
+                posaAZero();
+            }else{
+                System.out.println("LOL");
+            }
+        }
+    }
+
+    public void pausa(){
+        Date d = new Date();
+        this.parcial = (d.getTime() - this.inici) + this.parcial;
+        System.out.println(parcial);
+    }
+
+    public void posaEnMarxa(){
+        Date d = new Date();
+        this.inici = d.getTime();
+        System.out.println("start!!...");
+    }
+
+    public void stop(){
+        System.out.println("Stop: "+ calculaTemps());
+    }
+
+    public void posaAZero(){
+        this.inici = 0;
+    }
+
+
+    public long calculaTemps(){
+        Date d = new Date();
+        return this.inici = d.getTime()-this.inici;
+
+    }
 
 }
