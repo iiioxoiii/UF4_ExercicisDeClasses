@@ -2,13 +2,13 @@ package ex9CasaSalaCuina;
 
 public interface Casa {
 
-    double getSuperficie(double a);
-    Sala getSalaCasa(Sala s);
-    Cuina getCuinaCasa (Cuina c);
-    String getDireccio(String d);
+    double getSuperficie();
+    Sala getSalaCasa();
+    Cuina getCuinaCasa ();
+    String getDireccio();
 
-    void setSalaCasa();
-    void setCuinaCasa();
-    void setDireccio();
-    void setSuperficie();
+    void setSalaCasa(Sala s);
+    void setCuinaCasa(Cuina c);
+    void setDireccio(String d);
+    void setSuperficie(double a);
 }

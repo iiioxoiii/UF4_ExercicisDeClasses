@@ -5,7 +5,6 @@ public class CuinaImpl implements Cuina{
     boolean EsIndepent;
     int NombreFogons;
 
-
     public CuinaImpl(){
         this.EsIndepent = false;
         this.NombreFogons = 0;
@@ -30,9 +29,7 @@ public class CuinaImpl implements Cuina{
 
     @Override
     public String toString() {
-        return "CuinaImpl{" +
-                "EsIndepent=" + EsIndepent +
-                ", NombreFogons=" + NombreFogons +
-                '}';
+        return "\t\t"+ "\"EsIndepent\"=" + "\"" + EsIndepent + "\"," + "\n" +
+                "\t\t"+"\"NombreFogons\"=" + "\"" + NombreFogons + "\",";
     }
 }

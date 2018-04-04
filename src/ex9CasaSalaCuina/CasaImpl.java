@@ -7,33 +7,61 @@ public class CasaImpl implements Casa {
     Sala salaCasa;
     Cuina cuinaCasa;
 
-    //superfície(double), direcció(String), salaCasa(tipus Sala) i cuinaCasa (tipus Cuina)
 
+    public CasaImpl(){
+        this.salaCasa = new SalaImpl();
+        this.superficie = 0.0;
+        this.direccio = "<sense direcció>";
+        this.cuinaCasa = new CuinaImpl();
+    }
+
+    @Override
     public double getSuperficie() {
-        return this.superficie;
+        return superficie;
     }
 
-    public String getDireccio(){
-        return this.direccio;
+    @Override
+    public void setSuperficie(double superficie) {
+        this.superficie = superficie;
     }
 
+    @Override
+    public String getDireccio() {
+        return direccio;
+    }
+
+    @Override
+    public void setDireccio(String direccio) {
+        this.direccio = direccio;
+    }
+
+    @Override
     public Sala getSalaCasa() {
-        return this.salaCasa;
+        return salaCasa;
     }
 
+    @Override
+    public void setSalaCasa(Sala salaCasa) {
+        this.salaCasa = salaCasa;
+    }
+
+    @Override
     public Cuina getCuinaCasa() {
-        return this.cuinaCasa;
+        return cuinaCasa;
     }
 
-    public void setSuperficie(double s){
-        this.superficie = s;
-    }
-
-    public void  setDireccio(String d) {
-        this.direccio = d;
-    }
-
+    @Override
     public void setCuinaCasa(Cuina cuinaCasa) {
         this.cuinaCasa = cuinaCasa;
+    }
+
+    @Override
+    public String toString() {
+        return  "\t"+ "\"Casa\":" + "\t" + "{" +"\n" +
+                "\t\t" + "\"superficie\"=" + "\"" +superficie + "\"," +"\n" +
+                "\t\t"+"\"direccio\"="+ "\"" + direccio + "\"," +
+                salaCasa +
+                cuinaCasa + "\n" +
+                "\t"+ '}';
     }
 }

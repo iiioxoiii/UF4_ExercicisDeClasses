@@ -6,34 +6,28 @@ public class SalaImpl implements Sala{
     String TipusDeSala;
 
 
-    public SalaImpl(){
-        this.NumeroDeTelevisions = 0;
-        this.TipusDeSala="desconegut";
-    }
-
-
+    @Override
     public int getNumeroDeTelevisions() {
-
-        return this.NumeroDeTelevisions;
+        return NumeroDeTelevisions;
     }
 
-    public String getTipusDeSala() {
-        return this.TipusDeSala;
+    @Override
+    public void setNumeroDeTelevisions(int numeroDeTelevisions) {
+        NumeroDeTelevisions = numeroDeTelevisions;
     }
 
-    public void setNumeroDeTelevisions(int n) {
-        this.NumeroDeTelevisions = n;
+    public String getTipusSala() {
+        return TipusDeSala;
     }
 
-    public void setTipusDeSala(String tipusDeSala) {
-        this.TipusDeSala = tipusDeSala;
+    public void setTipusSala(String tipusDeSala) {
+        TipusDeSala = tipusDeSala;
     }
 
     @Override
     public String toString() {
-        return "SalaImpl{" +
-                "NumeroDeTelevisions=" + NumeroDeTelevisions +
-                ", TipusDeSala='" + TipusDeSala + '\'' +
-                '}';
+        return
+                "\n"+ "\t\t"+ "\"NumeroDeTelevisions\"=" + "\""+ NumeroDeTelevisions + "\""+ "," + "\n" +
+                "\t\t"+ "\"TipusDeSala\"=" + "\"" + TipusDeSala + "\", "+ "\n";
     }
 }

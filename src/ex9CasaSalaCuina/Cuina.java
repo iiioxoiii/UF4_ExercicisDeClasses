@@ -5,6 +5,6 @@ public interface Cuina {
     boolean getEsIndepent();
     boolean getNombreDeFogons();
     void setEsIndependent(boolean i);
-    void setNombreDeFogons(boolean n);
+    void setNombreDeFogons(int n);
 
 }

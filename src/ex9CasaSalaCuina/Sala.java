@@ -2,9 +2,9 @@ package ex9CasaSalaCuina;
 
 public interface Sala {
 
-    int getNumeroDeTelevisions(int n);
-    String getTipusSala(String t);
+    int getNumeroDeTelevisions();
+    String getTipusSala();
 
-    void setNumeroDeTelevisions();
-    void setTipusSala();
+    void setNumeroDeTelevisions(int n);
+    void setTipusSala(String t);
 }
