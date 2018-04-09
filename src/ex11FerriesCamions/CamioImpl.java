@@ -1,14 +1,26 @@
 package ex11FerriesCamions;
 
-public class CamioImpl {
+public class CamioImpl implements Camio{
 
     private String matricula;
-    private double pes;
+    private Double pes;
 
-    public CamioImpl(String matricula, double pes) {
+    public CamioImpl(String matricula, Double pes) {
         this.matricula = matricula;
         this.pes = pes;
     }
+
+    public CamioImpl(String matricula){
+        this.matricula = matricula;
+        this.pes = 0.0;
+    }
+
+    public CamioImpl(Double pes){
+        this.matricula = "ZZZ-00000";
+        this.pes = pes;
+    }
+
+
 
     public String getMatricula() {
         return matricula;
@@ -18,11 +30,11 @@ public class CamioImpl {
         this.matricula = matricula;
     }
 
-    public double getPes() {
+    public Double getPes() {
         return pes;
     }
 
-    public void setPes(double pes) {
+    public void setPes(Double pes) {
         this.pes = pes;
     }
 

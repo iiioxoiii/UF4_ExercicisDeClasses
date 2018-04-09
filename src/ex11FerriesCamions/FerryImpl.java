@@ -1,6 +1,10 @@
 package ex11FerriesCamions;
 
-import java.util.Map;
+import com.sun.org.apache.xpath.internal.SourceTree;
+import ex10Institut.Matricula;
+
+import java.util.HashMap;
+import java.util.Iterator;
 
 public class FerryImpl implements Ferry {
 
@@ -8,7 +12,8 @@ public class FerryImpl implements Ferry {
     private String matricula;
     private Double preuTona;
     private Double pesMaxim;
-    private Map<Integer, Camio> camions;
+
+    public HashMap<Integer, Camio> camions = new HashMap<>() ;
 
 
     public FerryImpl() {
@@ -19,8 +24,31 @@ public class FerryImpl implements Ferry {
     }
 
 
+    public void pintaCarrega(){
+
+        try {
+            System.out.println("Numero de camions: " + camions.size());
+            for (HashMap.Entry<Integer, Camio> element : camions.entrySet()) {
+                System.out.println("Matricula:" + element.getValue().getMatricula() + ". pes:" + element.getValue().getPes());
+            }
+        }catch (NullPointerException e){
+            System.out.println("No hi ha cap camió embarcat");
+        }
+    }
+
+
     public Integer getNumCamions(){
-        return camions.size();
+
+        Integer num;
+
+        try {
+            num = this.camions.size();
+        }catch (NullPointerException e){
+            num = 0;
+            System.out.println("No hi ha cap camió embarcat");
+        }
+
+        return num;
     }
 
     public String getPortDesti() {
@@ -40,10 +68,19 @@ public class FerryImpl implements Ferry {
     }
 
     public boolean camioEsdins(Camio c){
-        boolean esDins = false;
 
-        if(camions.containsValue(c)){
-            esDins = true;
+
+        boolean esDins = false;
+        try {
+            for (HashMap.Entry<Integer, Camio> element : camions.entrySet()) {
+                if (element.getValue().equals(c)){
+                    esDins = true;
+                }
+            }
+
+
+        }catch (NullPointerException e){
+            esDins = false;
         }
 
         return esDins;
@@ -66,12 +103,17 @@ public class FerryImpl implements Ferry {
 
         boolean entra = false;
 
-        if(!camioEsdins(c)){
-            camions.put(getNumCamions()+1,c);
-            entra = true;
+        try{
+
+            camions.put(camions.size() + 1, c);
+            return entra;
+
+        }catch (NullPointerException e){
+            entra =  false;
+            return entra;
         }
 
-        return entra;
+
     }
 
 
@@ -91,19 +133,44 @@ public class FerryImpl implements Ferry {
         this.pesMaxim = pesMax;
     }
 
-    public Integer camionsEmbarcats() {
-        return camions.size();
-    }
-
     public Double pesCamionsEmbarcats() {
 
         Double pes = 0.0;
 
-        for (Map.Entry<Integer,Camio> c: camions.entrySet()) {
-            pes = pes + c.getValue().getPes();
+        try {
+
+            for (HashMap.Entry<Integer, Camio> element : camions.entrySet()) {
+                pes = pes + element.getValue().getPes();
+            }
+
+            return pes;
+
+        }catch (NullPointerException e){
+
+            return 0.0;
+
         }
 
-        return pes;
+
+
+    }
+
+    public void pintaCamionsDeMap(){
+
+        try {
+
+            Iterator it = camions.keySet().iterator();
+
+            while (it.hasNext()){
+                HashMap.Entry ent = (HashMap.Entry)it.next();
+                Camio c = (Camio) ent.getValue();
+                System.out.println(c.toString());
+            }
+
+        }catch (NullPointerException e){
+            System.out.println("Shit!!");
+        }
+
 
     }
 
@@ -112,7 +179,7 @@ public class FerryImpl implements Ferry {
     public boolean esPossibleEmbarcar(Camio c) {
 
         boolean esPossible = false;
-        if(c.getPes()+pesCamionsEmbarcats() <= pesMaxim){
+        if(c.getPes()+pesCamionsEmbarcats() <= this.pesMaxim){
             esPossible = true;
         }
 
@@ -130,4 +197,17 @@ public class FerryImpl implements Ferry {
 
         return pesCamionsEmbarcats()*preuTona;
     }
+
+    @Override
+    public String toString() {
+        return "FerryImpl{" +
+                "portDesti='" + portDesti + '\'' +
+                ", matricula='" + matricula + '\'' +
+                ", preuTona=" + preuTona +
+                ", pesMaxim=" + pesMaxim +
+                ", camions=" + getNumCamions() +
+                '}';
+    }
+
+
 }

@@ -6,16 +6,25 @@ public interface Ferry {
     String getMatricula();
     Double getPreuTonaCamio();
     Double getPesMaxim();
-    Integer camionsEmbarcats();
-    Double pesCamionsEmbarcats();
-    boolean esPossibleEmbarcar(Camio c);
-    Double preuEmbarcament(Camio c);
-    Double peatgeRecaptat();
-
     void setPortDesti(String portDesti);
     void setMatricula(String matricula);
     void setPreuTona(Double preu);
     void setPesMaxim(Double pesMax);
+    void pintaCarrega();
+
+
+
+    Integer getNumCamions();
+    Double pesCamionsEmbarcats();
+    boolean esPossibleEmbarcar(Camio c);
+    boolean inCamio(Camio c);
+    boolean camioEsdins(Camio c);
+    boolean outCamio(Camio c);
+
+    Double preuEmbarcament(Camio c);
+    Double peatgeRecaptat();
+
+
 
 
 
