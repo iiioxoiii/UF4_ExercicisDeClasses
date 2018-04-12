@@ -11,6 +11,7 @@ public interface Ferry {
     void setPreuTona(Double preu);
     void setPesMaxim(Double pesMax);
     void pintaCarrega();
+    void infoCamio(Integer n);
 
 
 

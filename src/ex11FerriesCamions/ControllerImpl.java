@@ -8,6 +8,14 @@ public class ControllerImpl implements Controller {
     Ferry ferry = new FerryImpl();
 
 
+    public void determinaCamioNumero(){
+        System.out.println("Escriu la info del numero de camio: ");
+        Integer num = preguntaInteger();
+
+        ferry.infoCamio(num);
+    }
+
+
     public void determinaNumCamionsEmbarcats(){
         System.out.println("Num camions embarcats: " + ferry.getNumCamions());
     }
@@ -116,7 +124,6 @@ public class ControllerImpl implements Controller {
     public void testHashMap() {
         ferry.pintaCarrega();
     }
-
 
 
     public String preguntaString(){

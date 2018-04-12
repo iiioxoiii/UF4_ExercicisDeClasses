@@ -9,6 +9,7 @@ public interface Controller {
     void embarcarUnCamio();
     void determinaNumCamionsEmbarcats();
     void determinaPeatgeCamio();
+    void determinaCamioNumero();
 
     Integer preguntaInteger();
     Double preguntaDouble();

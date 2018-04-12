@@ -1,0 +1,12 @@
+4. Telefonia
+
+Una empresa de telefonia mòbil vol un programa per a gestionar la facturació de les trucades de veu dels seus clients. El preu de les trucades es calcula en funció d'un preu per minut que pot variar entre clients. Per cada client guardarem les trucades que realitzi.
+
+Volem dissenyar i escriure un programa que pugui efectuar les operacions següents:
+
+
+Afegir un client, tenint en compte que no pot haver-hi dos clients amb el mateix DNI.
+Afegir una trucada a un client.
+Escriure per pantalla el detall de la factura actual d'un client (dades del client, preu_x_minut, total factura, llistat de trucades (per cada trucada destí
+i duració), total minuts parlats.
+Fer un llistat de tots clients, detallant el seu DNI, nom i un resum de les dades de la factura actual (número de trucades, número de minuts totals, import total).

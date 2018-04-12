@@ -1,7 +1,5 @@
 package ex11FerriesCamions;
 
-import com.sun.org.apache.xpath.internal.SourceTree;
-import ex10Institut.Matricula;
 
 import java.util.HashMap;
 import java.util.Iterator;
@@ -22,6 +20,13 @@ public class FerryImpl implements Ferry {
         this.preuTona =  0.00;
         this.pesMaxim = 0.00;
     }
+
+
+    public void infoCamio(Integer n){
+        
+    }
+
+
 
 
     public void pintaCarrega(){

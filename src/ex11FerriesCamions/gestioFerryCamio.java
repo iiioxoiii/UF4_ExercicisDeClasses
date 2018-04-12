@@ -36,6 +36,8 @@ public class gestioFerryCamio {
                 control.determinaNumCamionsEmbarcats();
             }else if (op.equals(6)) {
                 control.determinaPeatgeCamio();
+            }else if (op.equals(7)) {
+                control.determinaCamioNumero();
             }else if (op.equals(9)){
                 sortir = true;
             }
