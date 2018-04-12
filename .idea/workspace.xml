@@ -4,23 +4,8 @@
     <bookmark url="file://$PROJECT_DIR$/src/ex12Telefonia/ClientImpl.java" line="25" mnemonic="7" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf5584a8-7e3c-47c1-b20a-acefc0bd2b99" name="Default" comment="Amb telefonades">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ex12Telefonia/Client.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ex12Telefonia/ClientImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ex12Telefonia/Controller.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ex12Telefonia/ControllerImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ex12Telefonia/INFO.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ex12Telefonia/Trucada.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ex12Telefonia/TrucadaImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ex12Telefonia/testAplicacio.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ex13Contractes/INFO.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ex14ConsultorisMedics/INFO.txt" />
+    <list default="true" id="cf5584a8-7e3c-47c1-b20a-acefc0bd2b99" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ex11FerriesCamions/Controller.java" afterPath="$PROJECT_DIR$/src/ex11FerriesCamions/Controller.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ex11FerriesCamions/ControllerImpl.java" afterPath="$PROJECT_DIR$/src/ex11FerriesCamions/ControllerImpl.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ex11FerriesCamions/Ferry.java" afterPath="$PROJECT_DIR$/src/ex11FerriesCamions/Ferry.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ex11FerriesCamions/FerryImpl.java" afterPath="$PROJECT_DIR$/src/ex11FerriesCamions/FerryImpl.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ex11FerriesCamions/gestioFerryCamio.java" afterPath="$PROJECT_DIR$/src/ex11FerriesCamions/gestioFerryCamio.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,8 +20,8 @@
       <file leaf-file-name="ControllerImpl.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ex12Telefonia/ControllerImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="101">
-              <caret line="30" column="41" lean-forward="false" selection-start-line="30" selection-start-column="41" selection-end-line="30" selection-end-column="41" />
+            <state relative-caret-position="139">
+              <caret line="85" column="34" lean-forward="false" selection-start-line="85" selection-start-column="34" selection-end-line="85" selection-end-column="34" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <marker date="1523546550970" expanded="true" signature="1128:1732" ph="{...}" />
@@ -451,7 +436,14 @@
       <option name="project" value="LOCAL" />
       <updated>1523303493457</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Amb telefonades">
+      <created>1523546573387</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1523546573387</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -940,8 +932,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ex12Telefonia/ControllerImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="101">
-          <caret line="30" column="41" lean-forward="false" selection-start-line="30" selection-start-column="41" selection-end-line="30" selection-end-column="41" />
+        <state relative-caret-position="139">
+          <caret line="85" column="34" lean-forward="false" selection-start-line="85" selection-start-column="34" selection-end-line="85" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
             <marker date="1523546550970" expanded="true" signature="1128:1732" ph="{...}" />
