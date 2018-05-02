@@ -5,7 +5,7 @@ public class Toroide {
 
     /** Volem determinar el pes de l'anell (gr) , el preu de l'or (€)
      * emprat en la seva fabricació, i el preu de venda de l'anell als majoristes (€).
-     * El cost de fabricació de l'aliança sense tenir en compte el valor de l'or és
+     * El cost de fabricació de l'aliança sense tenir en compte el Valor de l'or és
      * de 40 €, el preu de l'or és de 10 € el gram, el marge de benefici és del
      * 210 % del cost total de l'anell i el pes específic de l'or és de 19,3 gr/cm3
      **/

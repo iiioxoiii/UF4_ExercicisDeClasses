@@ -3,7 +3,7 @@ package ex5;
 /**
  * Crea i testeja una classe que emuli un comptador cíclic d'un dígit (0-9)
  * amb mètodes que ens permeti posar el comptador a 0, incrementar-lo i consultar
- * el seu valor.
+ * el seu Valor.
  *
  **/
 
