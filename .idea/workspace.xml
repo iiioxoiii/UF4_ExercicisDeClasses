@@ -4,34 +4,12 @@
     <bookmark url="file://$PROJECT_DIR$/src/ex12Telefonia/ClientImpl.java" line="25" mnemonic="7" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf5584a8-7e3c-47c1-b20a-acefc0bd2b99" name="Default" comment="Amb bliblioteca, estudiants i més">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ex17School/InternationalStudent.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ex17School/Person.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ex17School/Student.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ex17School/Teacher.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ex17School/test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ex18Biblioteca/Biblioteca.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ex18Biblioteca/BibliotecaImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ex18Biblioteca/Fitxa.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ex18Biblioteca/Obra.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ex18Biblioteca/Revista.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ex18Biblioteca/Volum.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ex18Biblioteca/test.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/examenUF4/Alumne.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/examenUF4/Aplicacio.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/examenUF4/Master.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/examenUF4/Matricula.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/examenUF4/Modul.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/examenUF4/Valor.java" afterPath="" />
+    <list default="true" id="cf5584a8-7e3c-47c1-b20a-acefc0bd2b99" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ext19Empleats/Comercial.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ext19Empleats/Empleat.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ext19Empleats/Repartidor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ext19Empleats/test.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ex12Telefonia/ControllerImpl.java" afterPath="$PROJECT_DIR$/src/ex12Telefonia/ControllerImpl.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ex12Telefonia/Trucada.java" afterPath="$PROJECT_DIR$/src/ex12Telefonia/Trucada.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ex12Telefonia/TrucadaImpl.java" afterPath="$PROJECT_DIR$/src/ex12Telefonia/TrucadaImpl.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ex12Telefonia/testAplicacio.java" afterPath="$PROJECT_DIR$/src/ex12Telefonia/testAplicacio.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ex16Herencia/Camio.java" afterPath="$PROJECT_DIR$/src/ex16Herencia/Camio.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ex16Herencia/Cotxe.java" afterPath="$PROJECT_DIR$/src/ex16Herencia/Cotxe.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ex16Herencia/Vehicle.java" afterPath="$PROJECT_DIR$/src/ex16Herencia/Vehicle.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ex16Herencia/test.java" afterPath="$PROJECT_DIR$/src/ex16Herencia/test.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -43,11 +21,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="BibliotecaImpl.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ex18Biblioteca/BibliotecaImpl.java">
+      <file leaf-file-name="test.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ext19Empleats/test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="560">
-              <caret line="66" column="5" lean-forward="true" selection-start-line="66" selection-start-column="5" selection-end-line="66" selection-end-column="5" />
+            <state relative-caret-position="268">
+              <caret line="22" column="42" lean-forward="false" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
               <folding />
             </state>
           </provider>
@@ -80,10 +58,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/ex11FerriesCamions/gestioFerryCamio.java" />
-        <option value="$PROJECT_DIR$/src/ex11FerriesCamions/Controller.java" />
-        <option value="$PROJECT_DIR$/src/ex11FerriesCamions/Ferry.java" />
-        <option value="$PROJECT_DIR$/src/ex13Contractes/INFO.txt" />
         <option value="$PROJECT_DIR$/src/ex14ConsultorisMedics/INFO.txt" />
         <option value="$PROJECT_DIR$/src/ex12Telefonia/TestAplicacio.java" />
         <option value="$PROJECT_DIR$/src/ex12Telefonia/FacturaImpl.java" />
@@ -131,6 +105,10 @@
         <option value="$PROJECT_DIR$/src/ex18Biblioteca/test.java" />
         <option value="$PROJECT_DIR$/src/ex18Biblioteca/Fitxa.java" />
         <option value="$PROJECT_DIR$/src/ex18Biblioteca/BibliotecaImpl.java" />
+        <option value="$PROJECT_DIR$/src/ext19Empleats/Comercial.java" />
+        <option value="$PROJECT_DIR$/src/ext19Empleats/Repartidor.java" />
+        <option value="$PROJECT_DIR$/src/ext19Empleats/Empleat.java" />
+        <option value="$PROJECT_DIR$/src/ext19Empleats/test.java" />
       </list>
     </option>
   </component>
@@ -171,6 +149,12 @@
               <item name="UF4" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="UF4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UF4" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ext19Empleats" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -204,7 +188,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.testBiblioteca">
+  <component name="RunManager" selected="Application.testEmpleats">
     <configuration name="CasaSalaCuina" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -381,9 +365,9 @@
       <module name="UF4" />
       <envs />
     </configuration>
-    <configuration name="testBiblioteca" type="Application" factoryName="Application">
+    <configuration name="testEmpleats" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="ex18Biblioteca.test" />
+      <option name="MAIN_CLASS_NAME" value="ext19Empleats.test" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -415,7 +399,7 @@
       <envs />
     </configuration>
     <list size="7">
-      <item index="0" class="java.lang.String" itemvalue="Application.testBiblioteca" />
+      <item index="0" class="java.lang.String" itemvalue="Application.testEmpleats" />
       <item index="1" class="java.lang.String" itemvalue="Application.CasaSalaCuina" />
       <item index="2" class="java.lang.String" itemvalue="Application.testInstitut" />
       <item index="3" class="java.lang.String" itemvalue="Application.gestioFerryCamio" />
@@ -522,7 +506,14 @@
       <option name="project" value="LOCAL" />
       <updated>1525284727377</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Amb bliblioteca, estudiants i més">
+      <created>1525371934701</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1525371934701</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -536,7 +527,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37908497" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37908497" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32913387" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -629,22 +620,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/ex11FerriesCamions/CamioImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="401">
-          <caret line="51" column="5" lean-forward="true" selection-start-line="41" selection-start-column="4" selection-end-line="51" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex12Telefonia/Dades.java" />
-    <entry file="file://$PROJECT_DIR$/src/ex11FerriesCamions/Camio.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex12Telefonia/DAO.java" />
     <entry file="file://$PROJECT_DIR$/src/ex12Telefonia/DAOImpl.java" />
     <entry file="file://$PROJECT_DIR$/src/ex12Telefonia/Client.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1088,14 +1063,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex18Biblioteca/Biblioteca.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="20" lean-forward="false" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ex18Biblioteca/test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -1126,10 +1093,96 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex18Biblioteca/Biblioteca.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="20" lean-forward="false" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/ex18Biblioteca/BibliotecaImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="560">
-          <caret line="66" column="5" lean-forward="true" selection-start-line="66" selection-start-column="5" selection-end-line="66" selection-end-column="5" />
+        <state relative-caret-position="336">
+          <caret line="56" column="13" lean-forward="true" selection-start-line="56" selection-start-column="13" selection-end-line="56" selection-end-column="13" />
+          <folding>
+            <marker date="1525371890038" expanded="true" signature="231:238" ph="{}" />
+            <marker date="1525371890038" expanded="true" signature="295:520" ph="{...}" />
+            <marker date="1525371890038" expanded="true" signature="579:768" ph="{...}" />
+            <marker date="1525371890038" expanded="false" signature="813:824" ph=" { " />
+            <marker date="1525371890038" expanded="false" signature="845:851" ph=" }" />
+            <marker date="1525371890038" expanded="false" signature="903:914" ph=" { " />
+            <marker date="1525371890038" expanded="false" signature="931:937" ph=" }" />
+            <marker date="1525371890038" expanded="true" signature="998:1163" ph="{...}" />
+            <marker date="1525371890038" expanded="true" signature="1227:1284" ph="{...}" />
+            <marker date="1525371890038" expanded="true" signature="1335:1429" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ext19Empleats/Comercial.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding>
+            <marker date="1525373713107" expanded="false" signature="173:184" ph=" { " />
+            <marker date="1525373713107" expanded="false" signature="217:223" ph=" }" />
+            <marker date="1525373713107" expanded="false" signature="255:266" ph=" { " />
+            <marker date="1525373713107" expanded="false" signature="281:287" ph=" }" />
+            <marker date="1525373713107" expanded="false" signature="331:342" ph=" { " />
+            <marker date="1525373713107" expanded="false" signature="365:371" ph=" }" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ext19Empleats/Repartidor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="14" lean-forward="true" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+          <folding>
+            <marker date="1525373713115" expanded="true" signature="186:261" ph="{...}" />
+            <marker date="1525373713115" expanded="false" signature="290:301" ph=" { " />
+            <marker date="1525373713115" expanded="false" signature="313:319" ph=" }" />
+            <marker date="1525373713115" expanded="false" signature="357:368" ph=" { " />
+            <marker date="1525373713115" expanded="false" signature="385:391" ph=" }" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ext19Empleats/Empleat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="410">
+          <caret line="32" column="4" lean-forward="false" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="4" />
+          <folding>
+            <marker date="1525374096863" expanded="true" signature="236:353" ph="{...}" />
+            <marker date="1525374096863" expanded="true" signature="390:581" ph="{...}" />
+            <marker date="1525374096863" expanded="false" signature="608:617" ph=" { " />
+            <marker date="1525374096863" expanded="false" signature="638:644" ph=" }" />
+            <marker date="1525374096863" expanded="false" signature="672:683" ph=" { " />
+            <marker date="1525374096863" expanded="false" signature="694:700" ph=" }" />
+            <marker date="1525374096863" expanded="false" signature="736:747" ph=" { " />
+            <marker date="1525374096863" expanded="false" signature="762:768" ph=" }" />
+            <marker date="1525374096863" expanded="false" signature="799:810" ph=" { " />
+            <marker date="1525374096863" expanded="false" signature="824:830" ph=" }" />
+            <marker date="1525374096863" expanded="false" signature="872:883" ph=" { " />
+            <marker date="1525374096863" expanded="false" signature="904:910" ph=" }" />
+            <marker date="1525374096863" expanded="false" signature="940:951" ph=" { " />
+            <marker date="1525374096863" expanded="false" signature="963:969" ph=" }" />
+            <marker date="1525374096863" expanded="false" signature="1008:1019" ph=" { " />
+            <marker date="1525374096863" expanded="false" signature="1036:1042" ph=" }" />
+            <marker date="1525374096863" expanded="false" signature="1073:1084" ph=" { " />
+            <marker date="1525374096863" expanded="false" signature="1098:1104" ph=" }" />
+            <marker date="1525374096863" expanded="false" signature="1146:1157" ph=" { " />
+            <marker date="1525374096863" expanded="false" signature="1178:1184" ph=" }" />
+            <marker date="1525374096863" expanded="true" signature="1230:1446" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ext19Empleats/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="22" column="42" lean-forward="false" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
           <folding />
         </state>
       </provider>
