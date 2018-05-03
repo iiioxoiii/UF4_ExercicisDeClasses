@@ -29,6 +29,8 @@ import java.util.Scanner;
             for (Client c:LlistaClients) {
                 if(c.equals(o)){
                     return noEstaEnLlista;
+                }else{
+                    noEstaEnLlista = false;
                 }
             }
             return noEstaEnLlista;
@@ -45,7 +47,7 @@ import java.util.Scanner;
                 System.out.println("Entra duració trucada (0.0):");
                 Double duracio = preguntaDouble();
 
-                LlistaTrucades.add(new TrucadaImpl(retornaClient(dni), numDesti, duracio));
+                LlistaTrucades.add( new TrucadaImpl(retornaClient(dni), numDesti, duracio));
 
             } else {
                 System.out.println("El dni" + dni + "no correspón a cap client registrat");

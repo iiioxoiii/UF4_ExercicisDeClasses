@@ -28,7 +28,7 @@ public class testAplicacio {
             }else if (op.equals(3)){
                 control.escriureFacturaDeClient();
             }else if (op.equals(4)){
-                control.llistarTotsElsClients();
+                //control.llistarTotsElsClients();
             }else if (op.equals(0)) {
                 sortir = true;
             }

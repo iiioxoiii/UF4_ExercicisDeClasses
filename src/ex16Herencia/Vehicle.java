@@ -2,9 +2,9 @@ package ex16Herencia;
 
 public abstract class Vehicle {
 
-    private String matricula;
-    private Double preuBase = 10.00;
-    private Integer diesLloguer;
+    protected String matricula;
+    protected Double preuBase = 10.00;
+    protected Integer diesLloguer;
 
 
     public Vehicle(String matricula, Integer diesLloguer) {

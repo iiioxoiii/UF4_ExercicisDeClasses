@@ -2,8 +2,8 @@ package ex16Herencia;
 
 public class Camio extends Vehicle{
 
-    Double pma;
-    Double suplementCamio = 20.0;
+    protected Double pma;
+    protected Double suplementCamio = 20.0;
 
     public Camio(String matricula, Integer diesLloguer, Double pma) {
         super(matricula, diesLloguer);
@@ -18,5 +18,10 @@ public class Camio extends Vehicle{
     @Override
     public Double getPreuTotal() {
         return getPreuDia()*getDiesLloguer() + 40.0;
+    }
+
+
+    public void setSuplementCamio(Double suplement){
+        this.suplementCamio= suplement;
     }
 }

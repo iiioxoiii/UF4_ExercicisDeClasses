@@ -8,5 +8,5 @@ public interface Trucada {
 
     void setClient(Client c);
     void setDesti(String d);
-    Double setMinutsTrucada(Double minuts);
+    void setMinutsTrucada(Double minuts);
 }

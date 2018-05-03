@@ -33,14 +33,15 @@ public class TrucadaImpl implements Trucada {
     }
 
     @Override
+    public void setMinutsTrucada(Double minuts) {
+        this.minuts = minuts;
+    }
+
+    @Override
     public void setDesti(String numDesti) {
         this.numDesti=numDesti;
     }
 
-    @Override
-    public Double setMinutsTrucada(Double minuts) {
-        this.minuts=minuts;
-    }
 
     @Override
     public String toString() {

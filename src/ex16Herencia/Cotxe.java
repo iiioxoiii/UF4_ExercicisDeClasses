@@ -7,9 +7,9 @@ package ex16Herencia;
 
 public class Cotxe extends Vehicle{
 
-    Integer places;
-    Double suplementPaca = 1.5;
-    Double suplementDia = 1.5;
+    protected Integer places;
+    protected Double suplementPaca = 1.5;
+    protected Double suplementDia = 1.5;
 
     public Cotxe(String matricula, Integer diesLloguer, Integer places) {
         super(matricula, diesLloguer);
