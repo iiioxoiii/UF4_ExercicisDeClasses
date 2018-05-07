@@ -4,9 +4,50 @@
     <bookmark url="file://$PROJECT_DIR$/src/ex12Telefonia/ClientImpl.java" line="25" mnemonic="7" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf5584a8-7e3c-47c1-b20a-acefc0bd2b99" name="Default" comment="">
+    <list default="true" id="cf5584a8-7e3c-47c1-b20a-acefc0bd2b99" name="Default" comment="Amb exercicis de interficies i herència">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ex20PolimorfismeMesClassesAbstractes/ex1Transports/Bicicleta.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ex20PolimorfismeMesClassesAbstractes/ex1Transports/Cotxe.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ex20PolimorfismeMesClassesAbstractes/ex1Transports/Metro.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ex20PolimorfismeMesClassesAbstractes/ex1Transports/Transport.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ex20PolimorfismeMesClassesAbstractes/ex1Transports/test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ex20PolimorfismeMesClassesAbstractes/ex2Aquarium/Organisme.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ex20PolimorfismeMesClassesAbstractes/ex2Aquarium/Peix.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ex20PolimorfismeMesClassesAbstractes/ex2Aquarium/Planta.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ex20PolimorfismeMesClassesAbstractes/ex2Aquarium/TipusDietaPeix.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ex20PolimorfismeMesClassesAbstractes/ex2Aquarium/TipusLlum.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ex20PolimorfismeMesClassesAbstractes/ex2Aquarium/TipusPlanta.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ex20PolimorfismeMesClassesAbstractes/ex3Areas/Aula.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ex20PolimorfismeMesClassesAbstractes/ex3Areas/Despatx.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ex20PolimorfismeMesClassesAbstractes/ex3Areas/Espai.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ex20PolimorfismeMesClassesAbstractes/ex3Areas/Gimnas.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ex20PolimorfismeMesClassesAbstractes/ex3Areas/Informatica.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ex20PolimorfismeMesClassesAbstractes/ex3Areas/Laboratori.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ex20PolimorfismeMesClassesAbstractes/ex4Water/Calculadora.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ex20PolimorfismeMesClassesAbstractes/ex4Water/Factura.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ex20PolimorfismeMesClassesAbstractes/ex4Water/TipusClient.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ex21Interficies/ex1Cantant/Canari.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ex21Interficies/ex1Cantant/Cantant.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ex21Interficies/ex1Cantant/CantantOpera.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ex21Interficies/ex1Cantant/Persona.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ex21Interficies/ex2Biblioteca/Llibre.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ex21Interficies/ex2Biblioteca/Prestable.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ex21Interficies/ex2Biblioteca/Publicacio.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ex21Interficies/ex2Biblioteca/Revista.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ex21Interficies/ex3CosGeometric/Calculs2D.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ex21Interficies/ex3CosGeometric/Calculs3D.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ex21Interficies/ex3CosGeometric/Cercle.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ex21Interficies/ex3CosGeometric/Cilindre.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ex21Interficies/ex3CosGeometric/Constants.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ex21Interficies/ex3CosGeometric/Figura2D.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ex21Interficies/ex3CosGeometric/Figura3D.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ex21Interficies/ex3CosGeometric/FiguraGeometrica.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ex21Interficies/ex3CosGeometric/Piramide.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ex21Interficies/ex3CosGeometric/Rectangle.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/ext19Empleats/Comercial.java" afterPath="$PROJECT_DIR$/src/ex19Empleats/Comercial.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/ext19Empleats/Empleat.java" afterPath="$PROJECT_DIR$/src/ex19Empleats/Empleat.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/ext19Empleats/Repartidor.java" afterPath="$PROJECT_DIR$/src/ex19Empleats/Repartidor.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/ext19Empleats/test.java" afterPath="$PROJECT_DIR$/src/ex19Empleats/test.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ext19Empleats/test.java" afterPath="$PROJECT_DIR$/src/ext19Empleats/test.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,13 +58,118 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="test.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ext19Empleats/test.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Constants.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ex21Interficies/ex3CosGeometric/Constants.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="298">
-              <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+            <state relative-caret-position="75">
+              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Calculs2D.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ex21Interficies/ex3CosGeometric/Calculs2D.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="30" lean-forward="false" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Calculs3D.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ex21Interficies/ex3CosGeometric/Calculs3D.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="26" lean-forward="false" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FiguraGeometrica.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ex21Interficies/ex3CosGeometric/FiguraGeometrica.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+              <folding>
+                <element signature="e#143#144#0" expanded="true" />
+                <element signature="e#183#184#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Figura2D.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ex21Interficies/ex3CosGeometric/Figura2D.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="10" lean-forward="false" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Cilindre.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ex21Interficies/ex3CosGeometric/Cilindre.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="16" selection-end-column="5" />
+              <folding>
+                <element signature="e#282#283#0" expanded="true" />
+                <element signature="e#335#336#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Piramide.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ex21Interficies/ex3CosGeometric/Piramide.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="29" lean-forward="false" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+              <folding>
+                <element signature="e#301#302#0" expanded="true" />
+                <element signature="e#357#358#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Figura3D.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ex21Interficies/ex3CosGeometric/Figura3D.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="35" lean-forward="true" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Cercle.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ex21Interficies/ex3CosGeometric/Cercle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="15" column="13" lean-forward="true" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+              <folding>
+                <element signature="e#151#152#0" expanded="true" />
+                <element signature="e#183#184#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Rectangle.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ex21Interficies/ex3CosGeometric/Rectangle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="43" lean-forward="false" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
+              <folding>
+                <element signature="e#323#324#0" expanded="true" />
+                <element signature="e#374#375#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -55,57 +201,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/ex14ConsultorisMedics/INFO.txt" />
-        <option value="$PROJECT_DIR$/src/ex12Telefonia/TestAplicacio.java" />
-        <option value="$PROJECT_DIR$/src/ex12Telefonia/FacturaImpl.java" />
-        <option value="$PROJECT_DIR$/src/ex12Telefonia/Factura.java" />
-        <option value="$PROJECT_DIR$/src/ex12Telefonia/Client.java" />
-        <option value="$PROJECT_DIR$/src/ex12Telefonia/Dades.java" />
-        <option value="$PROJECT_DIR$/src/ex11FerriesCamions/ControllerImpl.java" />
-        <option value="$PROJECT_DIR$/src/ex11FerriesCamions/FerryImpl.java" />
-        <option value="$PROJECT_DIR$/src/ex12Telefonia/ClientImpl.java" />
-        <option value="$PROJECT_DIR$/src/ex12Telefonia/INFO.txt" />
-        <option value="$PROJECT_DIR$/src/ex12Telefonia/DAO.java" />
-        <option value="$PROJECT_DIR$/src/ex12Telefonia/DAOImpl.java" />
-        <option value="$PROJECT_DIR$/src/ex12Telefonia/Controller.java" />
-        <option value="$PROJECT_DIR$/src/examenUF4/Alumne.java" />
-        <option value="$PROJECT_DIR$/src/examenUF4/Modul.java" />
-        <option value="$PROJECT_DIR$/src/examenUF4/valor.java" />
-        <option value="$PROJECT_DIR$/src/examenUF4/Valor.java" />
-        <option value="$PROJECT_DIR$/src/examenUF4/Matricula.java" />
-        <option value="$PROJECT_DIR$/src/examenUF4/Master.java" />
-        <option value="$PROJECT_DIR$/src/ex15Herencia/ObjecteGeometric.java" />
-        <option value="$PROJECT_DIR$/src/ex15Herencia/Quadrat.java" />
-        <option value="$PROJECT_DIR$/src/ex15Herencia/Cercle.java" />
-        <option value="$PROJECT_DIR$/src/ex15Herencia/test.java" />
-        <option value="$PROJECT_DIR$/src/ex16Herencia/microbus.java" />
-        <option value="$PROJECT_DIR$/src/ex16Herencia/Microbus.java" />
-        <option value="$PROJECT_DIR$/src/ex16Herencia/Vehicle.java" />
-        <option value="$PROJECT_DIR$/src/ex16Herencia/Camio.java" />
-        <option value="$PROJECT_DIR$/src/ex16Herencia/Cotxe.java" />
-        <option value="$PROJECT_DIR$/src/ex12Telefonia/testAplicacio.java" />
-        <option value="$PROJECT_DIR$/src/examenUF4/Aplicacio.java" />
-        <option value="$PROJECT_DIR$/src/ex12Telefonia/TrucadaImpl.java" />
-        <option value="$PROJECT_DIR$/src/ex12Telefonia/Trucada.java" />
-        <option value="$PROJECT_DIR$/src/ex16Herencia/test.java" />
-        <option value="$PROJECT_DIR$/src/ex16School/Student.java" />
-        <option value="$PROJECT_DIR$/src/ex16School/InternationalStudent.java" />
-        <option value="$PROJECT_DIR$/src/ex16School/Person.java" />
-        <option value="$PROJECT_DIR$/src/ex16School/Teacher.java" />
-        <option value="$PROJECT_DIR$/src/ex16School/test.java" />
-        <option value="$PROJECT_DIR$/src/ex17School/test.java" />
-        <option value="$PROJECT_DIR$/src/ex18Biblioteca/Revista.java" />
-        <option value="$PROJECT_DIR$/src/ex12Telefonia/ControllerImpl.java" />
-        <option value="$PROJECT_DIR$/src/ex18Biblioteca/Obra.java" />
-        <option value="$PROJECT_DIR$/src/ex18Biblioteca/Volum.java" />
-        <option value="$PROJECT_DIR$/src/ex18Biblioteca/Biblioteca.java" />
-        <option value="$PROJECT_DIR$/src/ex18Biblioteca/test.java" />
-        <option value="$PROJECT_DIR$/src/ex18Biblioteca/Fitxa.java" />
         <option value="$PROJECT_DIR$/src/ex18Biblioteca/BibliotecaImpl.java" />
         <option value="$PROJECT_DIR$/src/ext19Empleats/Comercial.java" />
         <option value="$PROJECT_DIR$/src/ext19Empleats/Repartidor.java" />
         <option value="$PROJECT_DIR$/src/ext19Empleats/Empleat.java" />
         <option value="$PROJECT_DIR$/src/ext19Empleats/test.java" />
+        <option value="$PROJECT_DIR$/src/ex19Empleats/test.java" />
+        <option value="$PROJECT_DIR$/src/ex20PolimorfismeMesClassesAbstractes/ex1Transports/Metro.java" />
+        <option value="$PROJECT_DIR$/src/ex20PolimorfismeMesClassesAbstractes/ex1Transports/Transport.java" />
+        <option value="$PROJECT_DIR$/src/ex20PolimorfismeMesClassesAbstractes/ex1Transports/Cotxe.java" />
+        <option value="$PROJECT_DIR$/src/ex20PolimorfismeMesClassesAbstractes/ex1Transports/Bicicleta.java" />
+        <option value="$PROJECT_DIR$/src/ex20PolimorfismeMesClassesAbstractes/ex1Transports/test.java" />
+        <option value="$PROJECT_DIR$/src/ex20PolimorfismeMesClassesAbstractes/ex2Aquarium/Llum.java" />
+        <option value="$PROJECT_DIR$/src/ex20PolimorfismeMesClassesAbstractes/ex2Aquarium/TipusPlanta.java" />
+        <option value="$PROJECT_DIR$/src/ex20PolimorfismeMesClassesAbstractes/ex2Aquarium/TipusPeix.java" />
+        <option value="$PROJECT_DIR$/src/ex20PolimorfismeMesClassesAbstractes/ex2Aquarium/Peix.java" />
+        <option value="$PROJECT_DIR$/src/ex20PolimorfismeMesClassesAbstractes/ex2Aquarium/Organisme.java" />
+        <option value="$PROJECT_DIR$/src/ex20PolimorfismeMesClassesAbstractes/ex2Aquarium/TipusLlum.java" />
+        <option value="$PROJECT_DIR$/src/ex20PolimorfismeMesClassesAbstractes/ex2Aquarium/TipusDietaPeix.java" />
+        <option value="$PROJECT_DIR$/src/ex20PolimorfismeMesClassesAbstractes/ex2Aquarium/Planta.java" />
+        <option value="$PROJECT_DIR$/src/ex20PolimorfismeMesClassesAbstractes/ex3Areas/Espais.java" />
+        <option value="$PROJECT_DIR$/src/ex20PolimorfismeMesClassesAbstractes/ex3Areas/despatx.java" />
+        <option value="$PROJECT_DIR$/src/ex20PolimorfismeMesClassesAbstractes/ex3Areas/Despatx.java" />
+        <option value="$PROJECT_DIR$/src/ex20PolimorfismeMesClassesAbstractes/ex3Areas/aula.java" />
+        <option value="$PROJECT_DIR$/src/ex20PolimorfismeMesClassesAbstractes/ex3Areas/Laboratori.java" />
+        <option value="$PROJECT_DIR$/src/ex20PolimorfismeMesClassesAbstractes/ex3Areas/Espai.java" />
+        <option value="$PROJECT_DIR$/src/ex20PolimorfismeMesClassesAbstractes/ex3Areas/Gimnas.java" />
+        <option value="$PROJECT_DIR$/src/ex20PolimorfismeMesClassesAbstractes/ex3Areas/Informatica.java" />
+        <option value="$PROJECT_DIR$/src/ex20PolimorfismeMesClassesAbstractes/ex3Areas/Aula.java" />
+        <option value="$PROJECT_DIR$/src/ex20PolimorfismeMesClassesAbstractes/ex4Water/TipusClient.java" />
+        <option value="$PROJECT_DIR$/src/ex20PolimorfismeMesClassesAbstractes/ex4Water/Factura.java" />
+        <option value="$PROJECT_DIR$/src/ex20PolimorfismeMesClassesAbstractes/ex4Water/Client.java" />
+        <option value="$PROJECT_DIR$/src/ex20PolimorfismeMesClassesAbstractes/ex4Water/Calculadora.java" />
+        <option value="$PROJECT_DIR$/src/ex21Interficies/ex1Cantant/Cantant.java" />
+        <option value="$PROJECT_DIR$/src/ex21Interficies/ex1Cantant/Canari.java" />
+        <option value="$PROJECT_DIR$/src/ex21Interficies/ex1Cantant/CantantOpera.java" />
+        <option value="$PROJECT_DIR$/src/ex21Interficies/Persona.java" />
+        <option value="$PROJECT_DIR$/src/ex21Interficies/ex1Cantant/Persona.java" />
+        <option value="$PROJECT_DIR$/src/ex21Interficies/ex2Biblioteca/Publicacio.java" />
+        <option value="$PROJECT_DIR$/src/ex21Interficies/ex2Biblioteca/Prestable.java" />
+        <option value="$PROJECT_DIR$/src/ex21Interficies/ex2Biblioteca/Revista.java" />
+        <option value="$PROJECT_DIR$/src/ex21Interficies/ex2Biblioteca/Llibre.java" />
+        <option value="$PROJECT_DIR$/src/ex21Interficies/ex3CosGeometric/Calculs3D.java" />
+        <option value="$PROJECT_DIR$/src/ex21Interficies/ex3CosGeometric/Calculs2D.java" />
+        <option value="$PROJECT_DIR$/src/ex21Interficies/ex3CosGeometric/Constants.java" />
+        <option value="$PROJECT_DIR$/src/ex21Interficies/ex3CosGeometric/FiguraGeometrica.java" />
+        <option value="$PROJECT_DIR$/src/ex21Interficies/ex3CosGeometric/Rectangle.java" />
+        <option value="$PROJECT_DIR$/src/ex21Interficies/ex3CosGeometric/Cercle.java" />
+        <option value="$PROJECT_DIR$/src/ex21Interficies/ex3CosGeometric/Figura3D.java" />
+        <option value="$PROJECT_DIR$/src/ex21Interficies/ex3CosGeometric/Figura2D.java" />
+        <option value="$PROJECT_DIR$/src/ex21Interficies/ex3CosGeometric/Cilindre.java" />
+        <option value="$PROJECT_DIR$/src/ex21Interficies/ex3CosGeometric/Piramide.java" />
       </list>
     </option>
   </component>
@@ -131,8 +277,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -151,6 +295,8 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -160,11 +306,14 @@
     <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="ex10Institut" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/ex15Herencia" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ex21Interficies.ex2Biblioteca" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="ex10Institut" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -358,7 +507,7 @@
     </configuration>
     <configuration name="testEmpleats" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="ext19Empleats.test" />
+      <option name="MAIN_CLASS_NAME" value="ex19Empleats.test" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -511,7 +660,14 @@
       <option name="project" value="LOCAL" />
       <updated>1525374255098</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Amb exercicis empleats">
+      <created>1525375009664</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1525375009664</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -519,18 +675,17 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26960784" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37908497" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37908497" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32913387" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27134147" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2703252" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25813007" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -541,6 +696,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26960784" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="9.765625E-4" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22385621" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -588,7 +744,8 @@
     <MESSAGE value="Amb bliblioteca, estudiants." />
     <MESSAGE value="Amb bliblioteca, estudiants i més" />
     <MESSAGE value="Amb exercicis empleats" />
-    <option name="LAST_COMMIT_MESSAGE" value="Amb exercicis empleats" />
+    <MESSAGE value="Amb exercicis de interficies i herència" />
+    <option name="LAST_COMMIT_MESSAGE" value="Amb exercicis de interficies i herència" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -619,421 +776,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/ex12Telefonia/DAOImpl.java" />
-    <entry file="file://$PROJECT_DIR$/src/ex12Telefonia/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex11FerriesCamions/FerryImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding>
-            <marker date="1523445910923" expanded="true" signature="37:82" ph="..." />
-            <marker date="1523445910923" expanded="true" signature="334:482" ph="{...}" />
-            <marker date="1523445910923" expanded="true" signature="521:537" ph="{}" />
-            <marker date="1523445910923" expanded="true" signature="572:1000" ph="{...}" />
-            <marker date="1523445910923" expanded="true" signature="1037:1276" ph="{...}" />
-            <marker date="1523445910923" expanded="false" signature="1310:1321" ph=" { " />
-            <marker date="1523445910923" expanded="false" signature="1338:1344" ph=" }" />
-            <marker date="1523445910923" expanded="false" signature="1378:1389" ph=" { " />
-            <marker date="1523445910923" expanded="false" signature="1406:1412" ph=" }" />
-            <marker date="1523445910923" expanded="false" signature="1450:1461" ph=" { " />
-            <marker date="1523445910923" expanded="false" signature="1477:1483" ph=" }" />
-            <marker date="1523445910923" expanded="false" signature="1516:1527" ph=" { " />
-            <marker date="1523445910923" expanded="false" signature="1543:1549" ph=" }" />
-            <marker date="1523445910923" expanded="true" signature="1590:1947" ph="{...}" />
-            <marker date="1523445910923" expanded="true" signature="1986:2141" ph="{...}" />
-            <marker date="1523445910923" expanded="true" signature="2178:2414" ph="{...}" />
-            <marker date="1523445910923" expanded="false" signature="2463:2474" ph=" { " />
-            <marker date="1523445910923" expanded="false" signature="2501:2507" ph=" }" />
-            <marker date="1523445910923" expanded="false" signature="2555:2566" ph=" { " />
-            <marker date="1523445910923" expanded="false" signature="2593:2599" ph=" }" />
-            <marker date="1523445910923" expanded="false" signature="2641:2653" ph=" { " />
-            <marker date="1523445910923" expanded="false" signature="2674:2680" ph=" }" />
-            <marker date="1523445910923" expanded="false" signature="2724:2735" ph=" { " />
-            <marker date="1523445910923" expanded="false" signature="2758:2764" ph=" }" />
-            <marker date="1523445910923" expanded="true" signature="2806:3112" ph="{...}" />
-            <marker date="1523445910923" expanded="true" signature="3149:3534" ph="{...}" />
-            <marker date="1523445910923" expanded="true" signature="3598:3774" ph="{...}" />
-            <marker date="1523445910923" expanded="true" signature="3833:3877" ph="{...}" />
-            <marker date="1523445910923" expanded="true" signature="3928:3983" ph="{...}" />
-            <marker date="1523445910923" expanded="true" signature="4028:4325" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex11FerriesCamions/Ferry.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="13" column="10" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex12Telefonia/ClientImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding>
-            <marker date="1523460780533" expanded="true" signature="172:179" ph="{}" />
-            <marker date="1523460780533" expanded="true" signature="241:327" ph="{...}" />
-            <marker date="1523460780533" expanded="false" signature="369:380" ph=" { " />
-            <marker date="1523460780533" expanded="false" signature="391:397" ph=" }" />
-            <marker date="1523460780533" expanded="false" signature="439:450" ph=" { " />
-            <marker date="1523460780533" expanded="false" signature="461:467" ph=" }" />
-            <marker date="1523460780533" expanded="false" signature="517:528" ph=" { " />
-            <marker date="1523460780533" expanded="false" signature="545:551" ph=" }" />
-            <marker date="1523460780533" expanded="false" signature="601:612" ph=" { " />
-            <marker date="1523460780533" expanded="false" signature="627:633" ph=" }" />
-            <marker date="1523460780533" expanded="false" signature="683:694" ph=" { " />
-            <marker date="1523460780533" expanded="false" signature="709:715" ph=" }" />
-            <marker date="1523460780533" expanded="true" signature="775:814" ph="{...}" />
-            <marker date="1523460780533" expanded="true" signature="866:1133" ph="{...}" />
-            <marker date="1523460780533" expanded="true" signature="1178:1358" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex12Telefonia/INFO.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="10" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex12Telefonia/Controller.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex10Institut/Modul.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="12" lean-forward="false" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex10Institut/AlumneImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="44" column="31" lean-forward="false" selection-start-line="44" selection-start-column="31" selection-end-line="44" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex10Institut/MatriculaImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="7" lean-forward="false" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex10Institut/testInstitut.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex10Institut/Alumne.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="27" lean-forward="false" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex11FerriesCamions/gestioFerryCamio.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="15" column="4" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="50" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/examenUF4/Controller.java" />
-    <entry file="file://$PROJECT_DIR$/src/ex11FerriesCamions/Controller.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="4" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="19" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex11FerriesCamions/ControllerImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="128" column="4" lean-forward="true" selection-start-line="128" selection-start-column="4" selection-end-line="151" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/examenUF4/Valor.java" />
-    <entry file="file://$PROJECT_DIR$/src/examenUF4/Matricula.java" />
-    <entry file="file://$PROJECT_DIR$/src/examenUF4/Alumne.java" />
-    <entry file="file://$PROJECT_DIR$/src/examenUF4/Modul.java" />
-    <entry file="file://$PROJECT_DIR$/src/examenUF4/Master.java" />
-    <entry file="file://$PROJECT_DIR$/src/ex15Herencia/Cercle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="25" lean-forward="true" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex15Herencia/test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="42" lean-forward="false" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex15Herencia/ObjecteGeometric.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex15Herencia/Quadrat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="25" column="16" lean-forward="false" selection-start-line="25" selection-start-column="16" selection-end-line="27" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex16Herencia/Cotxe.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="14" lean-forward="true" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
-          <folding>
-            <marker date="1525285762985" expanded="true" signature="23:131" ph="/**...*/" />
-            <marker date="1525285762985" expanded="true" signature="356:432" ph="{...}" />
-            <marker date="1525285762985" expanded="false" signature="478:489" ph=" { " />
-            <marker date="1525285762985" expanded="false" signature="551:557" ph=" }" />
-            <marker date="1525285762985" expanded="false" signature="605:616" ph=" { " />
-            <marker date="1525285762985" expanded="false" signature="653:659" ph=" }" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex12Telefonia/testAplicacio.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="30" column="18" lean-forward="false" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
-          <folding>
-            <marker date="1525286355796" expanded="true" signature="99:177" ph="{...}" />
-            <marker date="1525286355796" expanded="true" signature="200:865" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/examenUF4/Aplicacio.java" />
-    <entry file="file://$PROJECT_DIR$/src/ex12Telefonia/TrucadaImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="35" column="13" lean-forward="true" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
-          <folding>
-            <marker date="1525287052101" expanded="true" signature="225:326" ph="{...}" />
-            <marker date="1525287052101" expanded="false" signature="371:382" ph=" { " />
-            <marker date="1525287052101" expanded="false" signature="396:402" ph=" }" />
-            <marker date="1525287052101" expanded="false" signature="446:457" ph=" { " />
-            <marker date="1525287052101" expanded="false" signature="473:479" ph=" }" />
-            <marker date="1525287052101" expanded="true" signature="531:542" ph=" { " />
-            <marker date="1525287052101" expanded="true" signature="556:562" ph=" }" />
-            <marker date="1525287052101" expanded="false" signature="618:629" ph=" { " />
-            <marker date="1525287052101" expanded="false" signature="648:654" ph=" }" />
-            <marker date="1525287052101" expanded="true" signature="717:728" ph=" { " />
-            <marker date="1525287052101" expanded="true" signature="749:755" ph=" }" />
-            <marker date="1525287052101" expanded="false" signature="812:823" ph=" { " />
-            <marker date="1525287052101" expanded="false" signature="846:852" ph=" }" />
-            <marker date="1525287052101" expanded="true" signature="898:1085" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex12Telefonia/Trucada.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="28" lean-forward="false" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex16Herencia/Vehicle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="24" lean-forward="false" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
-          <folding>
-            <marker date="1525285763005" expanded="true" signature="222:305" ph="{...}" />
-            <marker date="1525285763005" expanded="false" signature="426:437" ph=" { " />
-            <marker date="1525285763005" expanded="false" signature="454:460" ph=" }" />
-            <marker date="1525285763005" expanded="false" signature="493:504" ph=" { " />
-            <marker date="1525285763005" expanded="false" signature="520:526" ph=" }" />
-            <marker date="1525285763005" expanded="false" signature="563:574" ph=" { " />
-            <marker date="1525285763005" expanded="false" signature="593:599" ph=" }" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex16Herencia/Camio.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="23" column="23" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-          <folding>
-            <marker date="1525285763109" expanded="true" signature="199:269" ph="{...}" />
-            <marker date="1525285763109" expanded="false" signature="315:326" ph=" { " />
-            <marker date="1525285763109" expanded="false" signature="366:372" ph=" }" />
-            <marker date="1525285763109" expanded="false" signature="420:431" ph=" { " />
-            <marker date="1525285763109" expanded="false" signature="475:481" ph=" }" />
-            <marker date="1525285763109" expanded="true" signature="535:545" ph=" { " />
-            <marker date="1525285763109" expanded="true" signature="576:582" ph=" }" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex16Herencia/Microbus.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="21" lean-forward="false" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
-          <folding>
-            <marker date="1524768300814" expanded="true" signature="198:280" ph="{...}" />
-            <marker date="1524768300814" expanded="true" signature="326:337" ph=" { " />
-            <marker date="1524768300814" expanded="true" signature="395:401" ph=" }" />
-            <marker date="1524768300814" expanded="false" signature="449:460" ph=" { " />
-            <marker date="1524768300814" expanded="false" signature="497:503" ph=" }" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex17School/InternationalStudent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <marker date="1525359796681" expanded="true" signature="205:289" ph="{...}" />
-            <marker date="1525359796681" expanded="false" signature="321:332" ph=" { " />
-            <marker date="1525359796681" expanded="false" signature="347:353" ph=" }" />
-            <marker date="1525359796681" expanded="false" signature="397:408" ph=" { " />
-            <marker date="1525359796681" expanded="false" signature="431:437" ph=" }" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex17School/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="18" column="19" lean-forward="true" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
-          <folding>
-            <marker date="1525359796697" expanded="true" signature="145:308" ph="{...}" />
-            <marker date="1525359796697" expanded="false" signature="337:348" ph=" { " />
-            <marker date="1525359796697" expanded="false" signature="360:366" ph=" }" />
-            <marker date="1525359796697" expanded="true" signature="404:415" ph=" { " />
-            <marker date="1525359796697" expanded="true" signature="432:438" ph=" }" />
-            <marker date="1525359796697" expanded="false" signature="470:481" ph=" { " />
-            <marker date="1525359796697" expanded="false" signature="496:502" ph=" }" />
-            <marker date="1525359796697" expanded="false" signature="546:557" ph=" { " />
-            <marker date="1525359796697" expanded="false" signature="580:586" ph=" }" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex17School/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="14" lean-forward="false" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
-          <folding>
-            <marker date="1525359796717" expanded="true" signature="187:282" ph="{...}" />
-            <marker date="1525359796717" expanded="false" signature="312:323" ph=" { " />
-            <marker date="1525359796717" expanded="false" signature="336:342" ph=" }" />
-            <marker date="1525359796717" expanded="false" signature="382:393" ph=" { " />
-            <marker date="1525359796717" expanded="false" signature="412:418" ph=" }" />
-            <marker date="1525359796717" expanded="false" signature="446:457" ph=" { " />
-            <marker date="1525359796717" expanded="false" signature="471:477" ph=" }" />
-            <marker date="1525359796717" expanded="false" signature="516:527" ph=" { " />
-            <marker date="1525359796717" expanded="false" signature="548:554" ph=" }" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex17School/Teacher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="4" lean-forward="false" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
-          <folding>
-            <marker date="1525359796669" expanded="true" signature="21:46" ph="..." />
-            <marker date="1525359796669" expanded="true" signature="200:271" ph="{...}" />
-            <marker date="1525359796669" expanded="true" signature="318:538" ph="{...}" />
-            <marker date="1525359796669" expanded="true" signature="589:850" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex17School/test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding>
-            <marker date="1525359796661" expanded="true" signature="112:533" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex12Telefonia/ControllerImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1351">
-          <caret line="35" column="34" lean-forward="true" selection-start-line="35" selection-start-column="34" selection-end-line="35" selection-end-column="34" />
-          <folding>
-            <marker date="1525360509558" expanded="false" signature="31:77" ph="..." />
-            <marker date="1525360509558" expanded="true" signature="312:775" ph="{...}" />
-            <marker date="1525360509558" expanded="true" signature="825:1132" ph="{...}" />
-            <marker date="1525360509558" expanded="true" signature="1194:1800" ph="{...}" />
-            <marker date="1525360509558" expanded="true" signature="1852:2087" ph="{...}" />
-            <marker date="1525360509558" expanded="true" signature="2137:2361" ph="{...}" />
-            <marker date="1525360509558" expanded="true" signature="2406:3000" ph="{...}" />
-            <marker date="1525360509558" expanded="true" signature="3048:3150" ph="{...}" />
-            <marker date="1525360509558" expanded="true" signature="3188:3524" ph="{...}" />
-            <marker date="1525360509558" expanded="true" signature="3566:3700" ph="{...}" />
-            <marker date="1525360509558" expanded="true" signature="3740:3876" ph="{...}" />
-            <marker date="1525360509558" expanded="true" signature="3918:4053" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex18Biblioteca/Revista.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-          <folding>
-            <marker date="1525360291653" expanded="true" signature="138:193" ph="{...}" />
-            <marker date="1525360291653" expanded="false" signature="220:231" ph=" { " />
-            <marker date="1525360291653" expanded="false" signature="242:248" ph=" }" />
-            <marker date="1525360291653" expanded="false" signature="283:294" ph=" { " />
-            <marker date="1525360291653" expanded="false" signature="309:315" ph=" }" />
-            <marker date="1525360291653" expanded="false" signature="342:353" ph=" { " />
-            <marker date="1525360291653" expanded="false" signature="364:370" ph=" }" />
-            <marker date="1525360291653" expanded="false" signature="405:416" ph=" { " />
-            <marker date="1525360291653" expanded="false" signature="431:437" ph=" }" />
-            <marker date="1525360291653" expanded="true" signature="482:602" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ex18Biblioteca/Obra.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="291">
           <caret line="32" column="16" lean-forward="true" selection-start-line="32" selection-start-column="16" selection-end-line="35" selection-end-column="57" />
-          <folding>
-            <marker date="1525362855388" expanded="true" signature="196:297" ph="{...}" />
-            <marker date="1525362855388" expanded="false" signature="327:338" ph=" { " />
-            <marker date="1525362855388" expanded="false" signature="351:357" ph=" }" />
-            <marker date="1525362855388" expanded="false" signature="397:408" ph=" { " />
-            <marker date="1525362855388" expanded="false" signature="427:433" ph=" }" />
-            <marker date="1525362855388" expanded="false" signature="464:475" ph=" { " />
-            <marker date="1525362855388" expanded="false" signature="490:496" ph=" }" />
-            <marker date="1525362855388" expanded="false" signature="539:550" ph=" { " />
-            <marker date="1525362855388" expanded="false" signature="573:579" ph=" }" />
-            <marker date="1525362855388" expanded="true" signature="624:867" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1041,14 +787,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="229">
           <caret line="26" column="19" lean-forward="false" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
-          <folding>
-            <marker date="1525363258462" expanded="true" signature="174:255" ph="{...}" />
-            <marker date="1525363258462" expanded="false" signature="282:293" ph=" { " />
-            <marker date="1525363258462" expanded="false" signature="304:310" ph=" }" />
-            <marker date="1525363258462" expanded="false" signature="345:356" ph=" { " />
-            <marker date="1525363258462" expanded="false" signature="371:377" ph=" }" />
-            <marker date="1525363258462" expanded="true" signature="422:669" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1056,9 +794,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="8" lean-forward="false" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
-          <folding>
-            <marker date="1525287879765" expanded="true" signature="116:278" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1066,9 +801,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding>
-            <marker date="1525371398374" expanded="true" signature="89:452" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1076,19 +808,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="20" lean-forward="false" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
-          <folding>
-            <marker date="1525371850522" expanded="true" signature="181:254" ph="{...}" />
-            <marker date="1525371850522" expanded="false" signature="284:295" ph=" { " />
-            <marker date="1525371850522" expanded="false" signature="308:314" ph=" }" />
-            <marker date="1525371850522" expanded="false" signature="354:365" ph=" { " />
-            <marker date="1525371850522" expanded="false" signature="384:390" ph=" }" />
-            <marker date="1525371850522" expanded="false" signature="425:436" ph=" { " />
-            <marker date="1525371850522" expanded="false" signature="454:460" ph=" }" />
-            <marker date="1525371850522" expanded="false" signature="510:521" ph=" { " />
-            <marker date="1525371850522" expanded="false" signature="550:556" ph=" }" />
-            <marker date="1525371850522" expanded="true" signature="609:902" ph="{...}" />
-            <marker date="1525371850522" expanded="true" signature="948:1100" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1096,7 +815,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="20" lean-forward="false" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1104,85 +822,349 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
           <caret line="56" column="13" lean-forward="true" selection-start-line="56" selection-start-column="13" selection-end-line="56" selection-end-column="13" />
-          <folding>
-            <marker date="1525371890038" expanded="true" signature="231:238" ph="{}" />
-            <marker date="1525371890038" expanded="true" signature="295:520" ph="{...}" />
-            <marker date="1525371890038" expanded="true" signature="579:768" ph="{...}" />
-            <marker date="1525371890038" expanded="false" signature="813:824" ph=" { " />
-            <marker date="1525371890038" expanded="false" signature="845:851" ph=" }" />
-            <marker date="1525371890038" expanded="false" signature="903:914" ph=" { " />
-            <marker date="1525371890038" expanded="false" signature="931:937" ph=" }" />
-            <marker date="1525371890038" expanded="true" signature="998:1163" ph="{...}" />
-            <marker date="1525371890038" expanded="true" signature="1227:1284" ph="{...}" />
-            <marker date="1525371890038" expanded="true" signature="1335:1429" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ext19Empleats/Repartidor.java">
+    <entry file="file://$PROJECT_DIR$/src/ex19Empleats/Repartidor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="14" lean-forward="true" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
-          <folding>
-            <marker date="1525373713115" expanded="true" signature="186:261" ph="{...}" />
-            <marker date="1525373713115" expanded="false" signature="290:301" ph=" { " />
-            <marker date="1525373713115" expanded="false" signature="313:319" ph=" }" />
-            <marker date="1525373713115" expanded="false" signature="357:368" ph=" { " />
-            <marker date="1525373713115" expanded="false" signature="385:391" ph=" }" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ext19Empleats/Empleat.java">
+    <entry file="file://$PROJECT_DIR$/src/ex19Empleats/Empleat.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="410">
           <caret line="32" column="4" lean-forward="false" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="4" />
-          <folding>
-            <marker date="1525374096863" expanded="true" signature="236:353" ph="{...}" />
-            <marker date="1525374096863" expanded="true" signature="390:581" ph="{...}" />
-            <marker date="1525374096863" expanded="false" signature="608:617" ph=" { " />
-            <marker date="1525374096863" expanded="false" signature="638:644" ph=" }" />
-            <marker date="1525374096863" expanded="false" signature="672:683" ph=" { " />
-            <marker date="1525374096863" expanded="false" signature="694:700" ph=" }" />
-            <marker date="1525374096863" expanded="false" signature="736:747" ph=" { " />
-            <marker date="1525374096863" expanded="false" signature="762:768" ph=" }" />
-            <marker date="1525374096863" expanded="false" signature="799:810" ph=" { " />
-            <marker date="1525374096863" expanded="false" signature="824:830" ph=" }" />
-            <marker date="1525374096863" expanded="false" signature="872:883" ph=" { " />
-            <marker date="1525374096863" expanded="false" signature="904:910" ph=" }" />
-            <marker date="1525374096863" expanded="false" signature="940:951" ph=" { " />
-            <marker date="1525374096863" expanded="false" signature="963:969" ph=" }" />
-            <marker date="1525374096863" expanded="false" signature="1008:1019" ph=" { " />
-            <marker date="1525374096863" expanded="false" signature="1036:1042" ph=" }" />
-            <marker date="1525374096863" expanded="false" signature="1073:1084" ph=" { " />
-            <marker date="1525374096863" expanded="false" signature="1098:1104" ph=" }" />
-            <marker date="1525374096863" expanded="false" signature="1146:1157" ph=" { " />
-            <marker date="1525374096863" expanded="false" signature="1178:1184" ph=" }" />
-            <marker date="1525374096863" expanded="true" signature="1230:1446" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ext19Empleats/Comercial.java">
+    <entry file="file://$PROJECT_DIR$/src/ex19Empleats/Comercial.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex19Empleats/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="12" lean-forward="false" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex20PolimorfismeMesClassesAbstractes/ex1Transports/Transport.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="10" lean-forward="false" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex20PolimorfismeMesClassesAbstractes/ex1Transports/Metro.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="4" lean-forward="false" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex20PolimorfismeMesClassesAbstractes/ex1Transports/Cotxe.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex20PolimorfismeMesClassesAbstractes/ex1Transports/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex20PolimorfismeMesClassesAbstractes/ex2Aquarium/Organisme.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="477">
+          <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex20PolimorfismeMesClassesAbstractes/ex2Aquarium/TipusDietaPeix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="27" lean-forward="false" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex20PolimorfismeMesClassesAbstractes/ex2Aquarium/TipusLlum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex20PolimorfismeMesClassesAbstractes/ex2Aquarium/Peix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="9" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="22" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex20PolimorfismeMesClassesAbstractes/ex2Aquarium/TipusPlanta.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="12" lean-forward="false" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex20PolimorfismeMesClassesAbstractes/ex2Aquarium/Planta.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="1" lean-forward="false" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex20PolimorfismeMesClassesAbstractes/ex3Areas/Laboratori.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex20PolimorfismeMesClassesAbstractes/ex3Areas/Espai.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="21" column="26" lean-forward="false" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex20PolimorfismeMesClassesAbstractes/ex3Areas/Gimnas.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="4" lean-forward="true" selection-start-line="13" selection-start-column="4" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex20PolimorfismeMesClassesAbstractes/ex3Areas/Informatica.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="53" lean-forward="false" selection-start-line="13" selection-start-column="53" selection-end-line="13" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex20PolimorfismeMesClassesAbstractes/ex3Areas/Despatx.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex20PolimorfismeMesClassesAbstractes/ex3Areas/Aula.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex20Interficies.java" />
+    <entry file="file://$PROJECT_DIR$/src/ex21Interficies/ex1Cantant/Cantant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="23" lean-forward="false" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex20PolimorfismeMesClassesAbstractes/ex1Transports/Bicicleta.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex20PolimorfismeMesClassesAbstractes/ex4Water/TipusClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex20PolimorfismeMesClassesAbstractes/ex4Water/Calculadora.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex20PolimorfismeMesClassesAbstractes/ex4Water/Factura.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex21Interficies/ex1Cantant/Canari.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex21Interficies/ex1Cantant/CantantOpera.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex21Interficies/ex1Cantant/Cantant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex21Interficies/ex2Biblioteca/Publicacio.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex21Interficies/ex1Cantant/Persona.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex21Interficies/ex2Biblioteca/Prestable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex21Interficies/ex2Biblioteca/Revista.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex21Interficies/ex2Biblioteca/Llibre.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
           <folding>
-            <marker date="1525373713107" expanded="false" signature="173:184" ph=" { " />
-            <marker date="1525373713107" expanded="false" signature="217:223" ph=" }" />
-            <marker date="1525373713107" expanded="false" signature="255:266" ph=" { " />
-            <marker date="1525373713107" expanded="false" signature="281:287" ph=" }" />
-            <marker date="1525373713107" expanded="false" signature="331:342" ph=" { " />
-            <marker date="1525373713107" expanded="false" signature="365:371" ph=" }" />
+            <element signature="e#417#418#0" expanded="false" />
+            <element signature="e#447#448#0" expanded="false" />
+            <element signature="e#489#490#0" expanded="false" />
+            <element signature="e#520#521#0" expanded="false" />
+            <element signature="e#566#567#0" expanded="false" />
+            <element signature="e#596#597#0" expanded="false" />
+            <element signature="e#826#827#0" expanded="false" />
+            <element signature="e#853#854#0" expanded="false" />
+            <element signature="e#899#900#0" expanded="false" />
+            <element signature="e#926#927#0" expanded="false" />
+            <element signature="e#971#972#0" expanded="false" />
+            <element signature="e#998#999#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ext19Empleats/test.java">
+    <entry file="file://$PROJECT_DIR$/src/ex21Interficies/ex3CosGeometric/FiguraGeometrica.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+        <state relative-caret-position="60">
+          <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+          <folding>
+            <element signature="e#143#144#0" expanded="true" />
+            <element signature="e#183#184#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex21Interficies/ex3CosGeometric/Rectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="43" lean-forward="false" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
+          <folding>
+            <element signature="e#323#324#0" expanded="true" />
+            <element signature="e#374#375#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex21Interficies/ex3CosGeometric/Constants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex21Interficies/ex3CosGeometric/Calculs3D.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="26" lean-forward="false" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex21Interficies/ex3CosGeometric/Calculs2D.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="30" lean-forward="false" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex21Interficies/ex3CosGeometric/Figura2D.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="10" lean-forward="false" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex21Interficies/ex3CosGeometric/Cercle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="15" column="13" lean-forward="true" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding>
+            <element signature="e#151#152#0" expanded="true" />
+            <element signature="e#183#184#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex21Interficies/ex3CosGeometric/Figura3D.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="35" lean-forward="true" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex21Interficies/ex3CosGeometric/Cilindre.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="16" selection-end-column="5" />
+          <folding>
+            <element signature="e#282#283#0" expanded="true" />
+            <element signature="e#335#336#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex21Interficies/ex3CosGeometric/Piramide.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="29" lean-forward="false" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+          <folding>
+            <element signature="e#301#302#0" expanded="true" />
+            <element signature="e#357#358#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

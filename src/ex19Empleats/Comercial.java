@@ -1,4 +1,4 @@
-package ext19Empleats;
+package ex19Empleats;
 
 public class Comercial extends Empleat {
 
